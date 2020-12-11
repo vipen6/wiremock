@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/wiremock.iml" filepath="$PROJECT_DIR$/wiremock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wiremockdemo/wiremockdemo.iml" filepath="$PROJECT_DIR$/wiremockdemo/wiremockdemo.iml" />
+    </modules>
+  </component>
+</project>
